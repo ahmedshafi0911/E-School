@@ -1,0 +1,55 @@
+body{
+    margin-bottom: 0;
+}
+.button{
+    color:white;
+    background-color:#21B573;
+    border-radius: 100px;
+    border: none;
+    cursor: pointer;
+    padding:5px 25px 5px 25px;
+}
+.nav-item{
+    padding-left:10px;
+    padding-right:10px;
+}
+h1{
+    font-weight:bolder;
+}
+section{
+    background-color:#F0FFF0;
+}
+p{
+    color: gray;
+}
+.card{
+    border: none;
+}
+.box{
+    
+    background-color:#ffff;
+    box-shadow: 15px 15px 20px gray;
+    width: 250px;
+    height: 200px;
+    margin-top: 40px;
+}
+.courses{
+    text-align: center;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.icon-1{
+    width: 25px;
+}
+.icon-2{
+    width: 25px;
+    margin-left: 80px;
+}
+.card{
+    box-shadow:10px 10px 10px 10px whitesmoke;
+}
+.review{
+    margin-top: 100px;
+}
